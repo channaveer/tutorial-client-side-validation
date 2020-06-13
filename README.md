@@ -1,7 +1,7 @@
 ##Client Side Form Validation
 -----------------------------
 
-Create a dependency dropdown with jQuery Ajax & PHP.
+Client-side form validation and why it's very crucial for your web development with jQuery Validation Javascript library.
 
 Feel free to use modify and share.
 
